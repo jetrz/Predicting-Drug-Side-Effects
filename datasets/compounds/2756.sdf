@@ -1,0 +1,177 @@
+2756
+  -OEChem-12171207572D
+
+ 33 33  0     0  0  0  0  0  0999 V2000
+    3.4901   -1.0999    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -4.3613    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2589    1.4317    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3090   -2.8225    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4399    3.1542    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8576    2.4497    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6265    4.9813    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3090   -2.8225    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8968   -2.0135    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0778   -0.2909    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6711    0.6226    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6180   -3.7735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5691   -4.0826    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -3.7735    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.8522    2.3452    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4509    3.3633    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0332    4.0678    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3275   -2.4594    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4108   -1.6668    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5085   -0.7369    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5918    0.0558    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2404    1.0686    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1571    0.2759    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8090   -4.9813    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8755    1.3669    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3775   -4.6722    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1588   -4.2741    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7607   -3.4929    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4103   -3.9651    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0566    3.0894    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0173    3.6155    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1987    3.9297    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8845    3.1111    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  1 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 14  1  0  0  0  0
+  2 24  1  0  0  0  0
+  3 11  1  0  0  0  0
+  3 15  1  0  0  0  0
+  3 25  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 14  2  0  0  0  0
+  5 15  1  0  0  0  0
+  5 17  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 15  2  0  0  0  0
+  6 16  1  0  0  0  0
+  7 17  3  0  0  0  0
+  8  9  1  0  0  0  0
+  8 12  2  0  0  0  0
+  9 18  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 16 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+2756
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+296
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+4
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzgABAAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHAQQAAAACAjFVgSHkBbJkAiwAQRhZAAAgC2RELABWYA4UACASABgCAAUAAAIEAJgACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-cyano-2-methyl-3-[2-[(5-methyl-1H-imidazol-4-yl)methylsulfanyl]ethyl]guanidine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-cyano-2-methyl-3-[2-[(5-methyl-1H-imidazol-4-yl)methylthio]ethyl]guanidine
+
+> <PUBCHEM_IUPAC_NAME>
+1-cyano-2-methyl-3-[2-[(5-methyl-1H-imidazol-4-yl)methylsulfanyl]ethyl]guanidine
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-cyano-2-methyl-3-[2-[(5-methyl-1H-imidazol-4-yl)methylsulfanyl]ethyl]guanidine
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-cyano-2-methyl-3-[2-[(5-methyl-1H-imidazol-4-yl)methylthio]ethyl]guanidine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H16N6S/c1-8-9(16-7-15-8)5-17-4-3-13-10(12-2)14-6-11/h7H,3-5H2,1-2H3,(H,15,16)(H2,12,13,14)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+AQIXAKUUQRKLND-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+0.4
+
+> <PUBCHEM_EXACT_MASS>
+252.115716
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H16N6S
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+252.33924
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC1=C(N=CN1)CSCCNC(=NC)NC#N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC1=C(N=CN1)CSCCNC(=NC)NC#N
+
+> <PUBCHEM_CACTVS_TPSA>
+114
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+252.115716
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+6
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+2  12  8
+2  14  8
+4  14  8
+4  8  8
+8  12  8
+
+$$$$

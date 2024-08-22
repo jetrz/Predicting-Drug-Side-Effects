@@ -1,0 +1,27 @@
+ index  #SEs  Side Effect (SOC Classses)
+     1	  53  Blood and Lymphatic System Disorders
+     2	  69  Cardiac Disorders
+     3	  15  Congenital, Familial and Genetic Disorders
+     4	  20  Ear and Labyrinth Disorders
+     5	  28  Endocrine Disorders
+     6	  86  Eye Disorders
+     7	 128  Gastrointestinal Disorders
+     8	  28  General Disorders and Administration Site Conditions
+     9	  26  Hepatobiliary Disorders
+    10	  17  Immune System Disorders
+    11	 129  Infections and Infestations
+    12	   6  Injury, poisoning and procedural complications
+    13	  13  Investigations
+    14	  54  Metabolism and Nutrition Disorders
+    15	  89  Musculoskeletal and Connective Tissue Disorders
+    16	  99  Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps)
+    17	 120  Nervous System Disorders
+    18	   9  Pregnancy, puerperium and Perinatal Conditions
+    19	  54  Psychiatric Disorders
+    20	  60  Renal and Urinary Disorders
+    21	  62  Reproductive System and Breast Disorders
+    22	  70  Respiratory, thoracic and Mediastinal Disorders
+    23	 101  Skin and Subcutaneous Tissue Disorders
+    24	   1  Social circumstances
+    25	   3  Surgical and medical procedures
+    26	  45  Vascular Disorders

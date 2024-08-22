@@ -1,0 +1,177 @@
+5462337
+  -OEChem-12171208252D
+
+ 32 33  0     0  0  0  0  0  0999 V2000
+    2.5369    2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651   -2.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -4.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010   -0.5000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -2.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -2.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5991   -1.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331   -3.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6720    2.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690   -0.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380    0.8100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -2.3100    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.1200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1360   -0.6900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    2.1900    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -4.6200    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 30  1  0  0  0  0
+  2 21  1  0  0  0  0
+  2 31  1  0  0  0  0
+  3 19  2  0  0  0  0
+  4 21  2  0  0  0  0
+  5 22  1  0  0  0  0
+  5 32  1  0  0  0  0
+  6 22  2  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 26  1  0  0  0  0
+  8 14  2  0  0  0  0
+  9 11  2  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 13  2  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 15  2  0  0  0  0
+ 12 24  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 18  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 16 27  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 20  2  0  0  0  0
+ 18 28  1  0  0  0  0
+ 19 20  1  0  0  0  0
+ 20 29  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5462337
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+592
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOAAAAAAAAAAAAAAAAAAAAAAAAAAwQAAAAAAAAAABAAAAHgAYCAAADAyBmAAwzoBiAgCoA6TySACSBAAkIgAYiAEWbNgIJzaKlZOAcUBl+BEI2Ye8yCCOAEAAQAAIAAAAgACAABAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+5-[(2E)-2-(3-carboxy-4-oxo-cyclohexa-2,5-dien-1-ylidene)hydrazino]-2-hydroxy-benzoic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+5-[(2E)-2-(3-carboxy-4-oxo-1-cyclohexa-2,5-dienylidene)hydrazinyl]-2-hydroxybenzoic acid
+
+> <PUBCHEM_IUPAC_NAME>
+5-[(2E)-2-(3-carboxy-4-oxocyclohexa-2,5-dien-1-ylidene)hydrazinyl]-2-hydroxybenzoic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+5-[(2E)-2-(3-carboxy-4-oxidanylidene-cyclohexa-2,5-dien-1-ylidene)hydrazinyl]-2-oxidanyl-benzoic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+5-[(N'E)-N'-(3-carboxy-4-keto-cyclohexa-2,5-dien-1-ylidene)hydrazino]-2-hydroxy-benzoic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H10N2O6/c17-11-3-1-7(5-9(11)13(19)20)15-16-8-2-4-12(18)10(6-8)14(21)22/h1-6,15,17H,(H,19,20)(H,21,22)/b16-8+
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ULGVHUUBIHTFAM-LZYBPNLTSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.2
+
+> <PUBCHEM_EXACT_MASS>
+302.053886
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H10N2O6
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+302.239
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=CC(=C(C=C1NN=C2C=CC(=O)C(=C2)C(=O)O)C(=O)O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=CC(=C(C=C1N/N=C/2\C=CC(=O)C(=C2)C(=O)O)C(=O)O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+136
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+302.053886
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+22
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+14
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  11  8
+10  13  8
+12  15  8
+13  15  8
+9  11  8
+9  12  8
+
+$$$$

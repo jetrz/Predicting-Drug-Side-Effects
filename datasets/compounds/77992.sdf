@@ -1,0 +1,189 @@
+77992
+  -OEChem-12171208212D
+
+ 35 37  0     1  0  0  0  0  0999 V2000
+    8.4097   -2.2152    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8507    1.5952    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9789   -1.2654    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7014   -1.0612    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6452   -0.5196    0.0000 C   0  0  1  0  0  0  0  0  0  0  0  0
+    4.6657   -0.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3233    0.4710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3507    0.0564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0263    1.2397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0417    1.0074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3507    0.0564    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6597    1.0074    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0356   -0.7284    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6751    1.2397    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0562   -0.5196    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0612    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3780    0.4710    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7224   -1.2654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0385   -0.3919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4394   -1.3056    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1957   -1.0501    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9441    0.9615    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7752    0.1813    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2659    1.8115    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5039    1.5736    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8507    2.2152    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1728   -1.8543    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8372   -1.3158    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8599    1.8315    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1266   -0.4543    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3931   -0.9347    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8734   -1.6682    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9840    0.6022    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1144   -1.5236    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8952   -0.4723    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 18  2  0  0  0  0
+  2 10  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2 26  1  0  0  0  0
+  5  3  1  6  0  0  0
+  3 16  1  0  0  0  0
+  3 27  1  0  0  0  0
+  4 18  1  0  0  0  0
+  4 34  1  0  0  0  0
+  4 35  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  5 19  1  0  0  0  0
+  6  8  1  0  0  0  0
+  6 20  1  0  0  0  0
+  6 21  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 22  1  0  0  0  0
+  7 23  1  0  0  0  0
+  8 10  2  0  0  0  0
+  8 11  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 24  1  0  0  0  0
+  9 25  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  2  0  0  0  0
+ 13 28  1  0  0  0  0
+ 14 17  2  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 16 30  1  0  0  0  0
+ 16 31  1  0  0  0  0
+ 16 32  1  0  0  0  0
+ 17 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+77992
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+333
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+2
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADceBzIAAAAAAAAAAAAAAAAAAAAWAAAAAwYAAAAAAAAFgB8AAAHgAQAAAADCjBngQywPLJkACoAyVyVACCgCAlAiAImaE4ZNgIIPLAlZGEIQhgkADIyYcYicCeiAACAAACAAAQAQSAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+(6R)-6-(methylamino)-6,7,8,9-tetrahydro-5H-carbazole-3-carboxamide
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+(6R)-6-(methylamino)-6,7,8,9-tetrahydro-5H-carbazole-3-carboxamide
+
+> <PUBCHEM_IUPAC_NAME>
+(6R)-6-(methylamino)-6,7,8,9-tetrahydro-5H-carbazole-3-carboxamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+(6R)-6-(methylamino)-6,7,8,9-tetrahydro-5H-carbazole-3-carboxamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+(6R)-6-(methylamino)-6,7,8,9-tetrahydro-5H-carbazole-3-carboxamide
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C14H17N3O/c1-16-9-3-5-13-11(7-9)10-6-8(14(15)18)2-4-12(10)17-13/h2,4,6,9,16-17H,3,5,7H2,1H3,(H2,15,18)/t9-/m1/s1
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XPSQPHWEGNHMSK-SECBINFHSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+1.2
+
+> <PUBCHEM_EXACT_MASS>
+243.137162
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C14H17N3O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+243.30428
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CNC1CCC2=C(C1)C3=C(N2)C=CC(=C3)C(=O)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CN[C@@H]1CCC2=C(C1)C3=C(N2)C=CC(=C3)C(=O)N
+
+> <PUBCHEM_CACTVS_TPSA>
+70.9
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+243.137162
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+5
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  12  8
+11  13  8
+12  14  8
+13  15  8
+14  17  8
+15  17  8
+2  10  8
+2  12  8
+5  3  6
+8  10  8
+8  11  8
+
+$$$$

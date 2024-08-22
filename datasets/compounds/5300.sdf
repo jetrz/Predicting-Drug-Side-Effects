@@ -1,0 +1,177 @@
+5300
+  -OEChem-12171208132D
+
+ 33 33  0     1  0  0  0  0  0999 V2000
+    5.1350   -1.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369    0.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -1.9400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    0.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -3.4400    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    1.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    4.0600    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    1.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    2.5600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0010    3.0600    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -0.4400    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.2690    0.0600    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    3.4030   -1.4400    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.2690   -1.9400    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    5.1350   -0.4400    0.0000 C   0  0  3  0  0  0  0  0  0  0  0  0
+    4.2690   -2.9400    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    1.5600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2690    3.0600    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030    0.1800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059    0.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4030   -2.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8059   -2.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350    0.1800    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6584   -2.8323    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0569   -3.5226    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    1.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5369   -2.5600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5380   -0.2500    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1350   -4.0600    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5790    3.5969    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    3.3700    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9590    2.5231    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2 11  1  0  0  0  0
+  2 27  1  0  0  0  0
+  3 13  1  0  0  0  0
+  3 28  1  0  0  0  0
+  4 15  1  0  0  0  0
+  4 29  1  0  0  0  0
+  5 16  1  0  0  0  0
+  5 30  1  0  0  0  0
+  6 17  2  0  0  0  0
+  7 10  2  0  0  0  0
+  8 12  1  0  0  0  0
+  8 17  1  0  0  0  0
+  8 26  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 17  1  0  0  0  0
+  9 18  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 14 22  1  0  0  0  0
+ 15 23  1  0  0  0  0
+ 16 24  1  0  0  0  0
+ 16 25  1  0  0  0  0
+ 18 31  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 18 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+5300
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+315
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+5
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+2
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzOAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAHgAcCAAACDzxgAcDCALABgAJAAAAEAAAAAAAAAAGAIAIAACTEAIAgAAHQAAfFgIXAAHwcAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-methyl-1-nitroso-3-[2,4,5-trihydroxy-6-(hydroxymethyl)tetrahydropyran-3-yl]urea
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-methyl-1-nitroso-3-[2,4,5-trihydroxy-6-(hydroxymethyl)-3-oxanyl]urea
+
+> <PUBCHEM_IUPAC_NAME>
+1-methyl-1-nitroso-3-[2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]urea
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-[6-(hydroxymethyl)-2,4,5-tris(oxidanyl)oxan-3-yl]-1-methyl-1-nitroso-urea
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-methyl-1-nitroso-3-(2,4,5-trihydroxy-6-methylol-tetrahydropyran-3-yl)urea
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H15N3O7/c1-11(10-17)8(16)9-4-6(14)5(13)3(2-12)18-7(4)15/h3-7,12-15H,2H2,1H3,(H,9,16)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ZSJLQEPLLKMAKR-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+-1.4
+
+> <PUBCHEM_EXACT_MASS>
+265.091
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H15N3O7
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+265.2206
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CN(C(=O)NC1C(C(C(OC1O)CO)O)O)N=O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CN(C(=O)NC1C(C(C(OC1O)CO)O)O)N=O
+
+> <PUBCHEM_CACTVS_TPSA>
+152
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+265.091
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+18
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+5
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+2
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+14  16  3
+11  2  3
+13  3  3
+15  4  3
+12  8  3
+
+$$$$

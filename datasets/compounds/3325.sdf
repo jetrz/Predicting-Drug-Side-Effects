@@ -1,0 +1,182 @@
+3325
+  -OEChem-12171208002D
+
+ 35 35  0     0  0  0  0  0  0999 V2000
+    7.7513   -0.0255    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4118    0.3857    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+   10.7545    0.5654    0.0000 S   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1028    1.3367    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7208   -0.5654    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3629    0.6947    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2545   -0.9734    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8981   -0.9526    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0146   -0.6947    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4608    0.0766    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.7088   -0.3346    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.5498    0.9526    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0571    0.3346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8002   -0.3346    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4944   -0.6947    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1060    0.0255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4455   -0.3857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7545    0.5654    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0635   -0.3857    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7577   -0.0255    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5456    0.7163    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7660    0.8820    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3116   -0.7163    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0913   -0.8820    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0058   -1.0764    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7855   -1.2421    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3901    1.0670    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3588   -1.3675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3084   -1.1442    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.4915    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3318   -0.5298    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1695    0.0803    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.8377   -0.9410    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.0105    1.3675    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9601    1.1442    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 14  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  2  0  0  0  0
+  2  6  1  0  0  0  0
+  2 10  1  0  0  0  0
+  3 18  1  0  0  0  0
+  3 19  1  0  0  0  0
+  6 16  2  3  0  0  0
+  7 17  1  0  0  0  0
+  7 19  2  0  0  0  0
+  8 16  1  0  0  0  0
+  8 28  1  0  0  0  0
+  8 29  1  0  0  0  0
+  9 19  1  0  0  0  0
+  9 20  2  0  0  0  0
+ 10 30  1  0  0  0  0
+ 10 31  1  0  0  0  0
+ 11 20  1  0  0  0  0
+ 11 32  1  0  0  0  0
+ 11 33  1  0  0  0  0
+ 12 20  1  0  0  0  0
+ 12 34  1  0  0  0  0
+ 12 35  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 16  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 13 22  1  0  0  0  0
+ 14 23  1  0  0  0  0
+ 14 24  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 25  1  0  0  0  0
+ 15 26  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 18 27  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+3325
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+469
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+8
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+4
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+7
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBzsABgAAAAAAAAAAAAAAAAAWAAAAAAAAAAAAAAAAABgAAAHAQQQAAACAiFVgChkRJIEAikAQZiZDAA8KlBCjgAABQwIACAAAAgAQAAAAAAEAIgACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+3-[(2-guanidinothiazol-4-yl)methylsulfanyl]-N'-sulfamoyl-propanamidine
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+3-[[2-(diaminomethylideneamino)-4-thiazolyl]methylthio]-N'-sulfamoylpropanimidamide
+
+> <PUBCHEM_IUPAC_NAME>
+3-[[2-(diaminomethylideneamino)-1,3-thiazol-4-yl]methylsulfanyl]-N'-sulfamoylpropanimidamide
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+3-[[2-[bis(azanyl)methylideneamino]-1,3-thiazol-4-yl]methylsulfanyl]-N'-sulfamoyl-propanimidamide
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+3-[(2-guanidinothiazol-4-yl)methylthio]-N'-sulfamoyl-propionamidine
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H15N7O2S3/c9-6(15-20(12,16)17)1-2-18-3-5-4-19-8(13-5)14-7(10)11/h4H,1-3H2,(H2,9,15)(H2,12,16,17)(H4,10,11,13,14)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+XUFQPHANEAPEMJ-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3>
+-0.6
+
+> <PUBCHEM_EXACT_MASS>
+337.044936
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H15N7O2S3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+337.4454
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C1=C(N=C(S1)N=C(N)N)CSCCC(=NS(=O)(=O)N)N
+
+> <PUBCHEM_CACTVS_TPSA>
+238
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+337.044936
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+20
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+1
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+9
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+17  18  8
+3  18  8
+3  19  8
+6  16  1
+7  17  8
+7  19  8
+
+$$$$
