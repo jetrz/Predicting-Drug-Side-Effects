@@ -20,32 +20,32 @@ Code for the paper "Enhancing Drug Side-Effect Prediction With Word Embeddings A
 ## Model Architectures
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="img/mlp_baseline.png" width="300"/><br/>
+    <td align="center" width="500">
+      <img src="img/mlp_baseline.png"/><br/>
       MLP Baseline Model Architecture
     </td>
-    <td align="center">
-      <img src="img/mlp_concat.png" width="300"/><br/>
+    <td align="center" width="500">
+      <img src="img/mlp_concat.png"/><br/>
       MLP Concat Model Architecture
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="img/mlp_mega_concat.png" width="300"/><br/>
+    <td align="center" width="500">
+      <img src="img/mlp_mega_concat.png"/><br/>
       MLP Mega Concat Model Architecture
     </td>
-    <td align="center">
-      <img src="img/mlp_cheated.png" width="300"/><br/>
+    <td align="center" width="500">
+      <img src="img/mlp_cheated.png"/><br/>
       MLP Mega Concat (Cheated) Model Architecture
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="img/mlp_concat_6.png" width="300"/><br/>
+      <img src="img/mlp_concat_6.png" width="500"/><br/>
       MLP Concat With Side-effect Embeddings Model Architecture
     </td>
     <td align="center">
-      <img src="img/mlp_concat_2.png" width="300"/><br/>
+      <img src="img/mlp_concat_2.png" width="500"/><br/>
       MLP Concat With SOC Labels Model Architecture
     </td>
   </tr>
