@@ -35,7 +35,7 @@ Code for the paper "Enhancing Drug Side-Effect Prediction With Word Embeddings A
       MLP Mega Concat Model Architecture
     </td>
     <td align="center">
-      <img src="img/mlp_mega_concat_cheated.png" width="300"/><br/>
+      <img src="img/mlp_cheated.png" width="300"/><br/>
       MLP Mega Concat (Cheated) Model Architecture
     </td>
   </tr>

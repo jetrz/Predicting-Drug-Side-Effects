@@ -26,7 +26,7 @@ def run_model(fold, hyperparams, n_epochs=100, display_epoch_info=True):
     dist_formula = "SqDist(Normalize(X), Normalize(Y))"
     wass_loss_2 = SamplesLoss(loss='sinkhorn',blur=.05,scaling=0.3,cost=dist_formula,backend="online")
     
-    optimizer_2 = torch.optim.NAdam(model2.parameters(), lr=hyperparams['lr_2'])
+    optimizer_2 = torch.optim.NAdam(model2.parameters(), lr=hyperparams['lr_1'])
     scheduler_2 = ReduceLROnPlateau(optimizer_2, mode='min', factor=0.1, patience=20, verbose=True)
 
     label_mode = hyperparams.get('label_mode', "")
@@ -41,7 +41,7 @@ def run_model(fold, hyperparams, n_epochs=100, display_epoch_info=True):
     soc_embed_mat = soc_embed_mat.to(device); se_embed_mat = se_embed_mat.to(device)
     
     losses = { loss : [] for loss in hyperparams['losses_list'] }
-    w_alpha_1, w_alpha_2 = hyperparams['w_alpha_1'], hyperparams['w_alpha_2']
+    w_alpha_1 = hyperparams['w_alpha_1']
     def train(loader):
         model2.train()
         for data in loader:  # Iterate in batches over the training dataset.
@@ -60,13 +60,13 @@ def run_model(fold, hyperparams, n_epochs=100, display_epoch_info=True):
             pred_embeds = out2 @ se_embed_mat
             label_embeds = y @ se_embed_mat
             loss2_2 = wass_loss_2(pred_embeds, label_embeds)
-            loss2 = w_alpha_2*loss2_1 + (1-w_alpha_2)*loss2_2
+            loss2 = w_alpha_1*loss2_1 + (1-w_alpha_1)*loss2_2
             loss2.backward()
             optimizer_2.step()
             optimizer_2.zero_grad()
             losses['loss2'].append(loss2.item())
-            losses['loss2_1'].append(loss2_1.item()*w_alpha_2)
-            losses['loss2_2'].append(loss2_2.item()*(1-w_alpha_2))
+            losses['loss2_1'].append(loss2_1.item()*w_alpha_1)
+            losses['loss2_2'].append(loss2_2.item()*(1-w_alpha_1))
 
     def test(loader):
         model2.eval()
@@ -91,7 +91,7 @@ def run_model(fold, hyperparams, n_epochs=100, display_epoch_info=True):
                 pred_embeds = out2 @ se_embed_mat
                 label_embeds = y @ se_embed_mat
                 loss2_2 = wass_loss_2(pred_embeds, label_embeds)
-                loss2 = w_alpha_2*loss2_1 + (1-w_alpha_2)*loss2_2
+                loss2 = w_alpha_1*loss2_1 + (1-w_alpha_1)*loss2_2
                 curr_losses['loss2'].append(loss2.item())
 
             output_copy = deepcopy(out2.detach())
@@ -248,7 +248,7 @@ def run_mlp_mega_concat_cheat():
         
     print(f'''
           RUN COMPLETED
-          Max Acc: {metrics['max_acc']} | Max ROC Macro: {metrics['max_roc_macro']} | Max ROC Micro: {metrics['max_roc_micro']} | Max ROC Weighted: {metrics['max_roc_weighted']} | Max PRC Macro: {metrics['max_prc_macro']} | Max PRC Micro: {metrics['max_prc_micro']} | Max PRC Weighted: {metrics['max_prc_weighted']} | Min Top K Cost 1: {metrics['min_top_k_cost_1']} | Min Top K Cost 2: {metrics['min_top_k_cost_2']} 
+          Max Acc: {metrics['max_acc']} | Max ROC Macro: {metrics['max_roc_macro']} | Max ROC Micro: {metrics['max_roc_micro']} | Max ROC Weighted: {metrics['max_roc_weighted']} | Max PRC Macro: {metrics['max_prc_macro']} | Max PRC Micro: {metrics['max_prc_micro']} | Max PRC Weighted: {metrics['max_prc_weighted']} | Min Top K Cost 2: {metrics['min_top_k_cost_2']} 
           ''')
     exec_time = time.time() - start_time
     print(f"Execution time: {exec_time:.2f} seconds")

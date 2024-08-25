@@ -8,5 +8,5 @@ from code.scripts.mlp_concat_w_soc_labels import run_mlp_concat_w_soc_labels
 from code.scripts.mlp_mega_concat_cheat import run_mlp_mega_concat_cheat
 
 if __name__ == "__main__":
-    run_mlp_mega_concat_cheat()
+    run_mlp_baseline()
     # generate_soc_data(type="weighted", randomise="randomised")

@@ -1,34 +1,39 @@
+# Params that are common across all scripts.
 all:
-  kfold: 1
-  n_epochs: 150
-  batch_size: 64
-  lr_1: 0.001
-  lr_2: 0.001
-  w_alpha_1: 1
-  w_alpha_2: 1
-  top_k_cost: 10
-  threshold: 0.5
-  randomise_mode: 'randomised' # '' or 'randomised' or 'true_randomised'
-  label_mode: 'weighted' # '' or 'weighted' or 'full'
+  kfold: 1                        # Number of folds in K-fold Cross Validation
+  n_epochs: 150                   # Number of training epochs per fold
+  batch_size: 64                  # Training batch size
+  lr_1: 0.001                     # Learning rate for first-layer MLP
+  lr_2: 0.001                     # Learning rate for second-layer MLP. If the model does not have a second layer, this will not be used (mlp_baseline and mlp_mega_concat_cheat).
+  top_k_cost: 10                  # k parameter for Top K Cost metric.
+  threshold: 0.5                  # Positive/Negative threshold for confusion matrix calculation.
+  randomise_mode: ''              # Label taxonomy randomisation mode from Section 3.2. '' or 'randomised' or 'true_randomised'
+  label_mode: ''                  # SOC label assignment mode, from Appendix B. '' or 'weighted' or 'full'.
+  w_alpha_1: 1                    # Loss mix between the model's default loss and Wasserstein Loss for the first-layer MLP, from Appendix C. 1 = Only model's default loss, 0 = Only Wasserstein Loss
+  w_alpha_2: 1                    # Loss mix between the model's default loss and Wasserstein Loss for the second-layer MLP, from Appendix C. 1 = Only model's default loss, 0 = Only Wasserstein Loss. If the model does not have a second layer, this will not be used (mlp_baseline and mlp_mega_concat_cheat).
 
+# Wandb parameters to be passed into wandb.init() function.
 wandb:
   mode: disabled
-  project: Saigolab 2
-  group: current_run
-  name: current_run
+  project: my_project
+  group: my_run
+  name: my_run
 
+# Metric parameters for mlp_baseline and mlp_mega_concat_cheat scripts. Recommended not to change.
 baseline:
   metric_list_1: ['acc', 'roc_macro', 'roc_micro', 'roc_weighted', 'prc_macro', 'prc_micro', 'prc_weighted']
   metric_list_2: ['roc_classes', 'prc_classes']
   metric_list_3: ['top_k_cost_2']
   losses_list: ['loss2', 'loss2_1', 'loss2_2']
 
+# Metric parameters for mlp_concat, mlp_mega_concat, and mlp_concat_w_soc_labels scripts. Recommended not to change.
 concat:
   metric_list_1: ['acc', 'roc_macro', 'roc_micro', 'roc_weighted', 'prc_macro', 'prc_micro', 'prc_weighted']
   metric_list_2: ['roc_classes', 'prc_classes']
   metric_list_3: ['top_k_cost_1', 'top_k_cost_2']
   losses_list: ['loss1', 'loss2', 'loss1_1', 'loss1_2', 'loss2_1', 'loss2_2']
 
+# Metric parameters for mlp_w_se_embeds script. Recommended not to change.
 w_se_embeds:
   metric_list_1: ['acc', 'roc_macro', 'roc_micro', 'roc_weighted', 'prc_macro', 'prc_micro', 'prc_weighted']
   metric_list_2: ['roc_classes', 'prc_classes']

@@ -253,7 +253,7 @@ def run_mlp_concat_w_se_embeds():
         
     print(f'''
           RUN COMPLETED
-          Max Acc: {metrics['max_acc']} | Max ROC Macro: {metrics['max_roc_macro']} | Max ROC Micro: {metrics['max_roc_micro']} | Max ROC Weighted: {metrics['max_roc_weighted']} | Max PRC Macro: {metrics['max_prc_macro']} | Max PRC Micro: {metrics['max_prc_micro']} | Max PRC Weighted: {metrics['max_prc_weighted']} | Min Top K Cost 1: {metrics['min_top_k_cost_1']} | Min Top K Cost 2: {metrics['min_top_k_cost_2']} 
+          Max Acc: {metrics['max_acc']} | Max ROC Macro: {metrics['max_roc_macro']} | Max ROC Micro: {metrics['max_roc_micro']} | Max ROC Weighted: {metrics['max_roc_weighted']} | Max PRC Macro: {metrics['max_prc_macro']} | Max PRC Micro: {metrics['max_prc_micro']} | Max PRC Weighted: {metrics['max_prc_weighted']} | Min Top K Cost 2: {metrics['min_top_k_cost_2']} 
           ''')
     exec_time = time.time() - start_time
     print(f"Execution time: {exec_time:.2f} seconds")
